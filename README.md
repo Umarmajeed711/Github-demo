@@ -1,2 +1,2 @@
 # Github-demo
-Author - Muhammad Umar
+Author - Umar Majeed
